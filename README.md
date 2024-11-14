@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/7131b2b1-2f71-49bd-8114-b67b17c2f547" style="border-radius: 50%;" align="center" width="256"/>
+![image](https://github.com/user-attachments/assets/074236b1-4af6-4f8e-bfad-f45d6fefc80d)
+
+
 
 Welcome to TAP49s, the game of hidden surprises and voucher victories! With a simple tap, embark on a thrilling journey through a grid of 49 tappeable numbers, each holding the potential for reward or risk. Your goal? To reveal the 'V' and claim your voucher reward. But beware, the '+T' and '-T' tiles could either grant you a second chance or cost you a precious tap.
 
